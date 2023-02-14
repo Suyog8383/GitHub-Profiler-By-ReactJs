@@ -28,7 +28,7 @@ function FrontPage() {
     <>
       <div style={box}>
         <img src="src\assets\github-logo.png" style={logoStyle} alt="" />
-        <h1>React GitHub Profiler</h1>
+        <h3>GitHub Profiler</h3>
         <div className="ui input focus">
           <input
             type="text"
